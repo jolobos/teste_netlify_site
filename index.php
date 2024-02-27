@@ -2,6 +2,8 @@
 	<h1> Olá!!!! Esse site é apenas un teste para uma futura implementação.</h1>
 	<h2> SEGUE A FOTO DO BABYSSAURO </h2>
 	<img src="abc.jpg" width="300" higth="400" />
-	
+	<?php
+	echo "testando php com echo";
+	?>
 
 </div>
